@@ -1,0 +1,2 @@
+https://www.learnentityframeworkcore.com/configuration/one-to-many-relationship-configuration
+https://www.learnentityframeworkcore.com/conventions/one-to-many-relationship
